@@ -14,7 +14,7 @@ console.log(bio)
 
 ```javascript
 const { works } = me
-works.map(work => console.log(work.name))
+console.log(works.map(work => work.name))
 ["Skills", "Myself"]
 ```
 
