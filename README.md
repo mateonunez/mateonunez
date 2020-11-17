@@ -3,8 +3,8 @@
 ## 👽 About
 
 ```javascript
-> const { bio } = me
-> console.log(bio)
+const { bio } = me
+console.log(bio)
 "Hello.\r\n"
 "My name is Mateo Nunez.\r\n"
 "I am a web developer skilled in JavaScript and PHP.\r\n"
@@ -14,9 +14,8 @@
 
 ```javascript
 const { works } = me
-console.log(works.map(work => work.name))
-"Skills"
-"Myself"
+works.map(work => console.log(work.name))
+["Skills", "Myself"]
 ```
 
 ## 🌱 Learning
