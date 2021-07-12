@@ -1,4 +1,4 @@
-# Developer. <img src="https://github-readme-stats.vercel.app/api?username=mateonunez&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
+# Developer. <img src="https://github-readme-stats.vercel.app/api?username=mateonunez&show_icons=true&hide_border=true&theme=dark" alt="mateonunez stats" width="440" align="right">
 
 <div align="left">
 <div>
