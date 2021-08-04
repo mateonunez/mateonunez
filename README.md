@@ -14,7 +14,7 @@
 ## Bye
 
 ```javascript
-console.log({...rest})
+console.warn({[]})
 ```
 
 </div>
