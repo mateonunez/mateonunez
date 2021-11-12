@@ -1,17 +1,8 @@
-# Developer. <img src="https://github-readme-stats.vercel.app/api?username=mateonunez&show_icons=true&hide_border=true&theme=dark" alt="mateonunez stats" width="440" align="right">
-
-<div align="left">
-<div>
-   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="22"> 
-   <span>JavaScript lover.</span>
+<div align="center">
+   <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mateonunez github" width="69" align="center" />
 </div>
 
-<div>
-   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="22"> 
-   <span>PHP chef.</span>
-</div>
-
-## Bye
+<br />
 
 ```javascript
    const { repositories } = @mateonunez
@@ -20,5 +11,3 @@
       repositories.forEach(repo => !repo.forked && fork(repo)) 
    }, [repositories])
 ```
-
-</div>
