@@ -16,7 +16,9 @@
 ```javascript
    const { repositories } = @mateonunez
    
-   useEffect(() => { repositories.forEach(repo => fork(repo)) }, [repositories])
+   useEffect(() => { 
+      repositories.forEach(repo => !repo.forked && fork(repo)) 
+   }, [repositories])
 ```
 
 </div>
