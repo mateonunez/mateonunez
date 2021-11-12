@@ -14,7 +14,9 @@
 ## Bye
 
 ```javascript
-console.warn({[]})
+   const { repositories } = @mateonunez
+   
+   useEffect(() => { repositories.forEach(repo => fork(repo)) }, [repositories])
 ```
 
 </div>
