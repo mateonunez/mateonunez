@@ -5,9 +5,9 @@
 <br />
 
 ```javascript
-   const { repositories } = @mateonunez
-   
-   useEffect(() => { 
-      repositories.forEach(repo => !repo.forked && fork(repo)) 
-   }, [repositories])
+const { repositories } = @mateonunez
+
+useEffect(() => { 
+   repositories.forEach(repo => !repo.forked && fork(repo)) 
+}, [repositories])
 ```
