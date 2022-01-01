@@ -7,7 +7,10 @@
 ```javascript
 const { repositories } = @mateonunez
 
-useEffect(() => { 
-   repositories.forEach(repo => !repo.forked && fork(repo)) 
-}, [repositories])
+const _2022 = {
+   ...repositories,
+   ...( studied && { solidity: true }),
+   ...( learnend && { rust: true })
+}
+
 ```
