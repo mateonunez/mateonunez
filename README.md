@@ -9,8 +9,7 @@ const { repositories } = @mateonunez
 
 const _2022 = {
    ...repositories,
-   ...( studied && { solidity: true }),
-   ...( learnend && { rust: true })
+   ...(studied && { solidity: true, rust: true })
 }
 
 ```
