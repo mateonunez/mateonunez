@@ -8,5 +8,5 @@
 const { repositories } = @mateonunez
 
 repositories.length > 0 &&
-   repositories.forEach({ id } => fork(id) && star(id))
+   repositories.forEach({ id } => fork({ id }) && star({ id }))
 ```
