@@ -7,9 +7,6 @@
 ```javascript
 const { repositories } = @mateonunez
 
-const _2022 = {
-   ...repositories,
-   ...(studied && { solidity: true, rust: true })
-}
-
+repositories.length > 0 &&
+   repositories.forEach({ id } => fork(id) && star(id))
 ```
