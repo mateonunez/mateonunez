@@ -9,6 +9,6 @@
  ## Stats
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mateonunez&show_icons=true&locale=en&theme=tokyonight" width="400" height="150" />
-   <img style="align: right;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateonunez&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=mateonunez&show_icons=true&locale=en&theme=tokyonight" width="400" height="150" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateonunez&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="150"/>
 </div>
