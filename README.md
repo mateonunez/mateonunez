@@ -5,5 +5,5 @@
 [![Mateo Nunez Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mateonunez95)
 
 -  👨‍💻 I'm a **Software Architect** at [Sabicom SRL](https://sabicom.com).
--  ⌨️ I love to code in **JavaScript**, **TypeScript** and **PHP**.
--  💭 I also like to try languages like **Rust**, **Solidity**, **Python** and **Go**.
+-  ⌨️ I often code in **JavaScript**, **TypeScript** and **PHP**.
+-  💭 I also like to try languages like **Rust**, **Python** and **Go**.
