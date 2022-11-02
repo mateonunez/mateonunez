@@ -5,5 +5,7 @@
 [![Mateo Nunez Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mateonunez95)
 
 -  👨‍💻 I'm a **Senior Developer** at [hlpy](https://hlpy.co).
--  ⌨️ I often code in **JavaScript**, **TypeScript** and **PHP**.
--  💭 I also like to try languages like **Rust**, **Python** and **Go**.
+-  ⌨️ Often code in **JavaScript** and **TypeScript**.
+-  💭 I also like to try languages like **Rust**, **PHP**, **Python** and **Go**.
+-  ☁️ Love the Cloud and sometimes I play with **K8S**_, **AWS** and _CNCF_ treats.
+-  📐 My favourite setup is: **VS Code** with **Vim** and **Colemak** layout.
