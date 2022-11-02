@@ -7,5 +7,5 @@
 -  👨‍💻 I'm a **Senior Developer** at [hlpy](https://hlpy.co).
 -  ⌨️ Often code in **JavaScript** and **TypeScript**.
 -  💭 I also like to try languages like **Rust**, **PHP**, **Python** and **Go**.
--  ☁️ Love the Cloud and sometimes I play with **K8S**_, **AWS** and _CNCF_ treats.
+-  ☁️ Love the Cloud and sometimes I play with **K8S**, **AWS** and _CNCF_ treats.
 -  📐 My favourite setup is: **VS Code** with **Vim** and **Colemak** layout.
