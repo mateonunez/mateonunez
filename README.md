@@ -8,4 +8,4 @@
 -  ⌨️ I code often in **JavaScript** and **TypeScript**.
 -  💭 I also like to try languages like **Rust**, **PHP**, **Python** and **Go**.
 -  ☁️ Love the Cloud and sometimes I play with **K8S**, **AWS** and _CNCF_ treats.
--  📐 My favourite setup is: **VS Code** with **Vim** and **Colemak** layout.
+-  📐 My favourite setup is: **VS Code** with **Vim**, **tmux** and **Colemak** layout.
