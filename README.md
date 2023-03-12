@@ -10,11 +10,11 @@
 </div>
 
 -  👨‍💻 I'm a **Senior Developer** at [hlpy](https://hlpy.co).
--  ⌨️ I code often in **JavaScript**, **TypeScript** and Python.
+-  ⌨️ I code often in **JavaScript**, **TypeScript** and **Python**.
 -  💭 I'm currently learning **Rust** and **Zig**.
 -  ☁️ Love the Cloud and sometimes I play with **K8S**, **AWS** and _CNCF_ treats.
 -  📐 My favourite setup is: **VS Code** with **Vim**, **tmux** and **Colemak** layout.
 -  🐶 My pet friends are 1 **dog** and 1 **cat**, I am also surrounded by a lot of **horses**.
 -  🏂 I really enjoy falling on a **snowboard** in the Italian mountains.
--  🧑‍🍳 Very ofter I **cook** for my friends.
--  🎹 I play the **guitar** and **piano**. Generally speaking I love the **music**.
+-  🧑‍🍳 I very often **cook** for my friends.
+-  🎹 I play the **guitar** and **piano**. Generally speaking I love **music**.
