@@ -9,7 +9,7 @@
 
 </div>
 
--  👨‍💻 I'm a **Senior Developer** at [hlpy](https://hlpy.co).
+-  👨‍💻 I'm a **Software Architect** at [BonusX](https://bonusx.it).
 -  ⌨️ I code often in **JavaScript**, **TypeScript** and **Python**.
 -  💭 I'm currently learning **Rust** and **Zig**.
 -  ☁️ Love the Cloud and sometimes I play with **K8S**, **AWS** and _CNCF_ treats.
