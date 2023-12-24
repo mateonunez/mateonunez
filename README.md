@@ -9,12 +9,8 @@
 
 </div>
 
--  👨‍💻 I'm a **Software Engineer** at [BonusX](https://bonusx.it).
--  ⌨️ I code often in **JavaScript**, **TypeScript** and **Python**.
--  💭 I'm currently learning **Rust** and **Zig**.
--  ☁️ Love the Cloud and sometimes I play with **K8S**, **AWS** and _CNCF_ treats.
--  📐 My favourite setup is: **VS Code** with **Vim**, **tmux** and **Colemak** layout.
--  🐱 My pet friend is **Mio**, a cat.
--  🏂 I really enjoy falling on a **snowboard** in the Italian mountains.
--  🧑‍🍳 I very often **cook** for my friends.
--  🎹 I play the **guitar** and **piano**. Generally speaking, I love **music**.
+-  👨‍💻 Currently working in [BonusX](https://bonusx.it).
+-  ⌨️ I code often in **JavaScript** and **TypeScript**.
+-  📐 Setup: **VS Code** with **Vim**, **tmux** and **Colemak** layout.
+
+Bye! 👋
